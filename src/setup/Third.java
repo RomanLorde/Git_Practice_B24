@@ -8,5 +8,6 @@ public class Third {
         System.out.println("adding third text");
         System.out.println("adding 4 text");
         System.out.println("adding 5 text");
+        System.out.println("System.out.println(\"adding 6 text\");");
     }
 }
